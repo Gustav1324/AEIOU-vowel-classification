@@ -46,8 +46,9 @@ class CNN(nn.Module):
 # Data Preparation
 Each txt file contains 75 samples (20000 values each) for a single vowel.
 - First 50 samples per vowel → used for training
-- Last 25 samples per vowel → used for testing  <br>
-The data is reshaped and converted to torch.FloatTensor for model input.
+- Last 25 samples per vowel → used for testing
+ <br>
+The data is reshaped and converted to torch. FloatTensor for model input.
 
 # Output
 -Training & test loss/accuracy are plotted at the end
