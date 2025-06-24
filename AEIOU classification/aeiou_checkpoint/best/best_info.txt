@@ -1,0 +1,3 @@
+Epoch      : 182
+Accuracy   : 81.60%
+Model Path : best_model_epoch182_acc81.60.pt
