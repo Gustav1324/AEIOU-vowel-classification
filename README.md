@@ -51,8 +51,8 @@ Each txt file contains 75 samples (20000 values each) for a single vowel.
 The data is reshaped and converted to torch. FloatTensor for model input.
 
 # Output
--Training & test loss/accuracy are plotted at the end
--Model with highest test accuracy is saved during training
+- Training & test loss/accuracy are plotted at the end
+- Model with highest test accuracy is saved during training
 
 # Checkpointing
 Best model is automatically saved to: checkpoints/best/best_model_epochXX_accYY.YY.pt
