@@ -11,16 +11,16 @@ NumPy
 Matplotlib
 
 ## Project Structure
+
 AEIOU-vowel-classification/
 ├── aeiou_data/
-│ ├── 75Raw_a.txt
-│ ├── 75Raw_e.txt
-│ ├── 75Raw_i.txt
-│ ├── 75Raw_o.txt
-│ └── 75Raw_u.txt
-├── AEIOU_classification.ipynb # Main notebook (training & evaluation)
-├── model.py # CNN model definition (optional if separated)
-└── checkpoints/ # Saved best models by accuracy
+│   ├── 75Raw_a.txt
+│   ├── 75Raw_e.txt
+│   ├── 75Raw_i.txt
+│   ├── 75Raw_o.txt
+│   └── 75Raw_u.txt
+├── AEIOU_classification.ipynb     # Main notebook (training & evaluation)
+└── checkpoints/                   # Saved best models by accuracy
 
 ## Model Overview
 The model is a deep 1D CNN that:
