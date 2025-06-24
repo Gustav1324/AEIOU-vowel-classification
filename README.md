@@ -11,6 +11,7 @@ NumPy
 Matplotlib
 
 ## Project Structure
+```
 python/
 ├── AEIOU_classification/
 │   ├── AEIOU_classification.ipynb     # Main notebook (training & evaluation)
@@ -22,6 +23,7 @@ python/
 │       ├── 75Raw_i.txt
 │       ├── 75Raw_o.txt
 │       └── 75Raw_u.txt
+```
 
 ## Model Overview
 The model is a deep 1D CNN that:
