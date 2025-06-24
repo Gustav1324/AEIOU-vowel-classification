@@ -2,7 +2,7 @@
 This project implements a 1D Convolutional Neural Network (CNN) in PyTorch to classify English vowel sounds — A, E, I, O, U — based on raw signal input. It is designed for simple end-to-end training and evaluation using preprocessed `.txt` data.
 
 **Note**: This project was developed as part of a university coursework assignment for deep learning and signal processing.  
-> It focuses on classifying vowel sounds (A, E, I, O, U) using a 1D CNN model implemented in PyTorch. <br>
+It focuses on classifying vowel sounds (A, E, I, O, U) using a 1D CNN model implemented in PyTorch.
 > Course: Deep Learning Theory & Exercise <br>
 > Instructor: Prof. AHN <br>
 > Submitted by: [SOHN] <br>
