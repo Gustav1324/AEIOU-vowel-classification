@@ -10,7 +10,7 @@ It focuses on classifying vowel sounds (A, E, I, O, U) using a 1D CNN model impl
 ---
 
 # Prerequisites
-some package required:
+some package required: <br>
 -Python 3.7+ <br>
 -PyTorch <br>
 -NumPy <br>
