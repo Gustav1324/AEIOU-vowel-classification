@@ -32,7 +32,6 @@ The model is a deep 1D CNN that:
 You can find the full model in the notebook:
 ```python
 class CNN(nn.Module):
-  ...
 
 ## Data Preparation
 Each txt file contains 75 samples (20000 values each) for a single vowel.
