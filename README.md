@@ -9,13 +9,6 @@ It focuses on classifying vowel sounds (A, E, I, O, U) using a 1D CNN model impl
 > Semester: Spring 2025 <br>
 ---
 
-# Prerequisites
-some package required: 
-- Python 3.7+ 
-- PyTorch 
-- NumPy 
-- Matplotlib 
-
 # Project Structure
 ```
 python/
